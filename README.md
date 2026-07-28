@@ -19,8 +19,11 @@ ________________________________________
 🛠️ Tools & Technologies
 
 •	Microsoft Excel – Data Cleaning & Preparation
+
 •	Power Query – Data Transformation
+
 •	Microsoft Power BI – Dashboard Development
+
 •	DAX (Data Analysis Expressions) – Measures & Calculations
 ________________________________________
 
