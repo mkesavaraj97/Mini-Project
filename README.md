@@ -1,9 +1,13 @@
 🚦 Traffic Accident Analysis Dashboard using Excel & Power BI
+
 📌 Project Overview
+
 This project presents an interactive Traffic Accident Analysis Dashboard developed using Microsoft Excel and Microsoft Power BI. The objective is to analyze traffic accident data across various states and cities in India, helping identify accident-prone locations, compare accident categories, and evaluate injury and fatality statistics.
 The dashboard provides meaningful insights through KPI cards, interactive charts, slicers, and DAX calculations, enabling data-driven decision-making for traffic safety and public policy.
 ________________________________________
+
 🎯 Project Objectives
+
 •	Analyze total traffic accident cases across different locations.
 •	Compare Road, Railway, and Railway Crossing accidents.
 •	Identify high-risk states and cities.
@@ -11,13 +15,17 @@ ________________________________________
 •	Analyze injury and death rates.
 •	Create an interactive dashboard for effective decision-making.
 ________________________________________
+
 🛠️ Tools & Technologies
+
 •	Microsoft Excel – Data Cleaning & Preparation
 •	Power Query – Data Transformation
 •	Microsoft Power BI – Dashboard Development
 •	DAX (Data Analysis Expressions) – Measures & Calculations
 ________________________________________
+
 📊 Dataset Information
+
 Domain: Transportation Analytics (Traffic Safety)
 The dataset contains traffic accident statistics for various States, Union Territories, and Cities.
 Dataset Features
@@ -38,7 +46,9 @@ Dataset Features
 •	Injury Rate
 •	Death Rate
 ________________________________________
+
 🧹 Data Cleaning
+
 •	Imported the dataset into Excel.
 •	Removed duplicate records.
 •	Verified data types.
@@ -47,7 +57,9 @@ ________________________________________
 •	Formatted percentage columns.
 •	Converted the dataset into an Excel Table.
 ________________________________________
+
 🔄 Data Transformation (Power Query)
+
 •	Imported the dataset into Power BI.
 •	Verified column data types.
 •	Removed unnecessary data.
@@ -56,7 +68,9 @@ ________________________________________
 •	Applied data formatting.
 •	Loaded the cleaned dataset into the Power BI model.
 ________________________________________
+
 📐 Data Modeling
+
 •	Imported a single fact table (Traffic_Data) into Power BI.
 •	Verified data types for all columns.
 •	Formatted percentage fields.
