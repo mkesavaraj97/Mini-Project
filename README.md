@@ -77,6 +77,7 @@ ________________________________________
 •	Optimized the model for reporting and DAX calculations.
 ________________________________________
 📏 DAX Measures
+
 Total Cases =
 SUM('Traffic_Data'[Total Traffic Cases])
 
@@ -93,7 +94,9 @@ Injury Rate =
 DIVIDE([Total Injured],[Total Cases])
 ________________________________________
 📈 Dashboard Features
+
 •	📌 KPI Cards
+
 •	📊 Bar Chart
 •	📉 Line Chart
 •	🍩 Donut Chart
@@ -106,6 +109,7 @@ ________________________________________
 ________________________________________
 
 📊 Dashboard KPIs
+
 •	🚗 Total Accident Cases
 •	🤕 Total Injured
 •	⚫ Total Deaths
@@ -115,20 +119,29 @@ ________________________________________
 📷 Dashboard Preview
 
  ________________________________________
+ 
 📌 Key Insights
+
 📍 Descriptive
+
 The dashboard summarizes total accident cases, injuries, deaths, and death rate, providing a clear overview of traffic accident statistics.
 
 
 🔍 Diagnostic
+
 High accident cases and death rates identify accident-prone locations that require further investigation and safety improvements.
 📈 Predictive
+
 Historical accident trends indicate that locations with consistently high accident cases may continue to remain high-risk areas.
 ✅ Prescriptive
+
 The dashboard supports data-driven decisions by helping authorities prioritize road safety measures, improve emergency response, and reduce accident-related fatalities.
 ________________________________________
+
 💼 Business Value
+
 This dashboard can help:
+
 •	Government Departments
 •	Traffic Police
 •	Transport Authorities
@@ -136,7 +149,9 @@ This dashboard can help:
 •	Urban Planners
 •	Data Analysts & Researchers
 ________________________________________
+
 🚀 Skills Demonstrated
+
 •	Microsoft Excel
 •	Power Query
 •	Power BI
@@ -150,7 +165,9 @@ ________________________________________
 •	Business Intelligence
 •	Analytical Thinking
 ________________________________________
+
 📂 Project Structure
+
 Traffic-Accident-Analysis/
 │
 ├── Dataset/
@@ -167,7 +184,9 @@ Traffic-Accident-Analysis/
 │
 └── README.md
 ________________________________________
+
 🎯 Conclusion
+
 The Traffic Accident Analysis Dashboard demonstrates how Excel and Power BI can transform raw accident data into meaningful insights through data cleaning, DAX calculations, and interactive visualizations. The dashboard enables users to monitor accident trends, compare accident categories, identify high-risk locations, and support data-driven decisions for improving road safety.
 ________________________________________
 👨💻 Author
