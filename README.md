@@ -189,6 +189,7 @@ High accident cases and death rates identify accident-prone locations that requi
 📈 Predictive
 
 Historical accident trends indicate that locations with consistently high accident cases may continue to remain high-risk areas.
+
 ✅ Prescriptive
 
 The dashboard supports data-driven decisions by helping authorities prioritize road safety measures, improve emergency response, and reduce accident-related fatalities.
@@ -209,36 +210,61 @@ ________________________________________
 🚀 Skills Demonstrated
 
 •	Microsoft Excel
+
 •	Power Query
+
 •	Power BI
+
 •	Data Cleaning
+
 •	Data Transformation
+
 •	Data Modeling
+
 •	DAX
+
 •	KPI Design
+
 •	Data Visualization
+
 •	Dashboard Development
+
 •	Business Intelligence
+
 •	Analytical Thinking
+
 ________________________________________
 
 📂 Project Structure
 
+
 Traffic-Accident-Analysis/
+
 │
+
 ├── Dataset/
+
 │   └── Traffic_Accidents.xlsx
+
 │
+
 ├── PowerBI/
+
 │   └── Traffic_Accident_Dashboard.pbix
+
 │
 ├── Images/
+
 │   └── Traffic_Accident_Dashboard.png
 │
+
 ├── Documentation/
+
 │   └── Project_Documentation.pdf
+
 │
-└── README.md
+└─
+─ README.md
 ________________________________________
 
 🎯 Conclusion
