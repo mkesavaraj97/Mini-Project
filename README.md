@@ -9,11 +9,17 @@ ________________________________________
 🎯 Project Objectives
 
 •	Analyze total traffic accident cases across different locations.
+
 •	Compare Road, Railway, and Railway Crossing accidents.
+
 •	Identify high-risk states and cities.
+
 •	Evaluate total injuries and fatalities.
+
 •	Analyze injury and death rates.
+
 •	Create an interactive dashboard for effective decision-making.
+
 ________________________________________
 
 🛠️ Tools & Technologies
@@ -30,53 +36,88 @@ ________________________________________
 📊 Dataset Information
 
 Domain: Transportation Analytics (Traffic Safety)
+
 The dataset contains traffic accident statistics for various States, Union Territories, and Cities.
+
 Dataset Features
+
 •	Location
+
 •	Location Type
+
 •	Road Cases
+
 •	Road Injured
+
 •	Road Deaths
+
 •	Railway Cases
+
 •	Railway Injured
+
 •	Railway Deaths
+
 •	Railway Crossing Cases
+
 •	Railway Crossing Injured
+
 •	Railway Crossing Deaths
+
 •	Total Traffic Cases
+
 •	Total Traffic Injured
+
 •	Total Traffic Deaths
+
 •	Injury Rate
+
 •	Death Rate
+
 ________________________________________
 
 🧹 Data Cleaning
 
 •	Imported the dataset into Excel.
+
 •	Removed duplicate records.
+
 •	Verified data types.
+
 •	Handled missing values.
+
 •	Renamed columns for consistency.
+
 •	Formatted percentage columns.
+
 •	Converted the dataset into an Excel Table.
+
 ________________________________________
 
 🔄 Data Transformation (Power Query)
 
 •	Imported the dataset into Power BI.
+
 •	Verified column data types.
+
 •	Removed unnecessary data.
+
 •	Checked for null values.
+
 •	Renamed columns where required.
+
 •	Applied data formatting.
+
 •	Loaded the cleaned dataset into the Power BI model.
 ________________________________________
 
 📐 Data Modeling
 
 •	Imported a single fact table (Traffic_Data) into Power BI.
+
 •	Verified data types for all columns.
+
 •	Formatted percentage fields.
+
 •	Optimized the model for reporting and DAX calculations.
 ________________________________________
 📏 DAX Measures
@@ -101,21 +142,33 @@ ________________________________________
 •	📌 KPI Cards
 
 •	📊 Bar Chart
+
 •	📉 Line Chart
+
 •	🍩 Donut Chart
+
 •	🌳 Treemap
+
 •	📋 Column Chart
+
 •	🎛️ Interactive Slicers
+
 •	🔄 Cross Filtering
+
 •	📍 Location-wise Analysis
+
 •	🚦 Accident Category Comparison
+
 ________________________________________
 
 📊 Dashboard KPIs
 
 •	🚗 Total Accident Cases
+
 •	🤕 Total Injured
+
 •	⚫ Total Deaths
+
 •	📈 Death Rate
 ________________________________________
 
